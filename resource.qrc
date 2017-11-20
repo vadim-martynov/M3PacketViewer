@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/img">
+        <file>ledoff.png</file>
+        <file>ledon.png</file>
+        <file>microscope.png</file>
+        <file>Start-icon.png</file>
+        <file>Stop-icon.png</file>
+        <file>Clean-off.png</file>
+        <file>Clean-on.png</file>
+        <file>node-icon.png</file>
+        <file>table-icon.png</file>
+        <file>Back.png</file>
+        <file>About.png</file>
+        <file>Delete.png</file>
+        <file>Open.png</file>
+        <file>Exit.png</file>
+        <file>Close.png</file>
+        <file>broadcast-g.png</file>
+        <file>broadcast-y.png</file>
+        <file>broadcast-g1.png</file>
+        <file>broadcast-y1.png</file>
+    </qresource>
+</RCC>
